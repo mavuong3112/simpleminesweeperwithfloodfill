@@ -4,6 +4,13 @@ A modern recreation of the classic Minesweeper game, fully built using Python an
 This version supports a polished user interface, sound effects, dark mode, custom game settings, and high score tracking!
 
 ---
+## 🎮 Demo
+![](https://github.com/user-attachments/assets/68a8b64b-4679-4a43-a289-4ce7b0c61b7f)
+![](https://github.com/user-attachments/assets/51dcd0de-852e-4ab6-a8b3-349ef0efe9bf)
+![](https://github.com/user-attachments/assets/69cf90b1-3026-4765-b387-678d5fda0521)
+
+
+---
 
 ## 🚀 Key Features
 - 🧠 **Customizable grid size** (rows, columns, and mines)
