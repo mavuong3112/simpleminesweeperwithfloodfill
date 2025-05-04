@@ -1,0 +1,1 @@
+{"easy": 999, "medium": 999, "hard": 999, "custom": 999}
